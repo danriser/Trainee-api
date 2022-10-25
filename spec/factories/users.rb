@@ -4,6 +4,6 @@ FactoryBot.define do
     email { "MyString" }
     password { "MyString" }
     wallet { 1 }
-    is_admin { false }
+    is_admin { false }  
   end
 end
